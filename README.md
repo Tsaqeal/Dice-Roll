@@ -14,11 +14,12 @@ We began by using a simple Excel formula on the **Dices** worksheet:
 The dice icons were formatted to be visible, while everything else was in white font to "hide" it.
 
 🎮 Making It Interactive
+
 To make it more fun, I added two buttons:
 
-Roll Dices – Runs a macro to generate new dice rolls and logs the result
+1. 🎲 Roll Dices – Runs a macro to generate new dice rolls and logs the result
 
-End Game – Marks the end of a game in the history table
+2. ⛔ End Game – Marks the end of a game in the history table
 
 I also added a background image of a board game to make it more thematic.
 
